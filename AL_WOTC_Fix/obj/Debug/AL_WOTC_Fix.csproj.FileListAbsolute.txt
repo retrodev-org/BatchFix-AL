@@ -1,0 +1,6 @@
+C:\Users\wholland\Documents\SharpDevelop Projects\AL_WOTC_Fix\AL_WOTC_Fix\bin\Debug\AL_WOTC_Fix.exe.config
+C:\Users\wholland\Documents\SharpDevelop Projects\AL_WOTC_Fix\AL_WOTC_Fix\bin\Debug\AL_WOTC_Fix.exe
+C:\Users\wholland\Documents\SharpDevelop Projects\AL_WOTC_Fix\AL_WOTC_Fix\bin\Debug\AL_WOTC_Fix.pdb
+C:\Users\wholland\Documents\SharpDevelop Projects\AL_WOTC_Fix\AL_WOTC_Fix\obj\Debug\AL_WOTC_Fix.exe
+C:\Users\wholland\Documents\SharpDevelop Projects\AL_WOTC_Fix\AL_WOTC_Fix\obj\Debug\AL_WOTC_Fix.pdb
+C:\Users\wholland\Documents\SharpDevelop Projects\AL_WOTC_Fix\AL_WOTC_Fix\obj\Debug\AL_WOTC_Fix.csproj.CoreCompileInputs.cache
