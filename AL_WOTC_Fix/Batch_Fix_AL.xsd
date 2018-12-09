@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<StateBatchVariables state="AL"	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noFeinspaceSchemaLocation="Batch_Fix_AL.xsd">
+	<ConsultantId>
+		<type>String</type>
+		<length>12</length>
+		<description>Identifier to the state for consultant company.</description>
+	</ConsultantId>
+	<Fein>
+		<type>String</type>
+		<length>9</length>
+		<description>Employer's FEIN</description>
+	</Fein>
+	<SSN>
+		<type>String</type>
+		<length>9</length>
+		<description>Employee's Social Security number</description>
+	</SSN>
+	<EmployeeFirstName>
+		<type>String</type>
+		<length>10</length>
+		<description>Employee's first name</description>
+	</EmployeeFirstName>
+	<EmployeeMiddleName>
+		<type>String</type>
+		<length>1</length>
+		<description>Employee's middle initial</description>
+	</EmployeeMiddleName>
+	<EmployeeLastName>
+		<type>String</type>
+		<length>19</length>
+		<description>Employee's last name</description>
+	</EmployeeLastName>
+	<EmployeeStreet1>
+		<type>String</type>
+		<length>30</length>
+		<description>Employee's street address, first line</description>
+	</EmployeeStreet1>
+	<EmployeeCity>
+		<type>String</type>
+		<length>20</length>
+		<description>Employee's city of residence</description>
+	</EmployeeCity>
+	<EmployeeState>
+		<type>String</type>
+		<length>2</length>
+		<description>Employee's state of residence</description>
+	</EmployeeState>
+	<EmployeeZip>
+		<type>String</type>
+		<length>5</length>
+		<description>Employee's zip code</description>
+	</EmployeeZip>
+	
+</StateBatchVariables>
